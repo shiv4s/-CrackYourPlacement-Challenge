@@ -1,1 +1,1 @@
-#CrackYourPlacement-Challenge
+CrackYourPlacement-Challenge
